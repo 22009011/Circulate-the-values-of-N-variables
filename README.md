@@ -28,5 +28,6 @@ def circulate():
     print("After circulating the values are:",c)
 ```
 ## Output:
+![Screenshot 2023-03-16 at 21-52-19 Exp-1b CR-Circulate n variables Attempt review](https://user-images.githubusercontent.com/118343461/225689798-03bd6cad-b0e6-4bf5-a796-5e332ea5c586.png)
 
 ## Result:
